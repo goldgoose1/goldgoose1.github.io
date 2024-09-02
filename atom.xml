@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://goldgoose1.github.io/project/atom.xml" rel="self"/>
+  <link href="https://goldgoose1.github.io/atom.xml" rel="self"/>
   
-  <link href="https://goldgoose1.github.io/project/"/>
+  <link href="https://goldgoose1.github.io/"/>
   <updated>2024-09-02T01:44:36.838Z</updated>
-  <id>https://goldgoose1.github.io/project/</id>
+  <id>https://goldgoose1.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://goldgoose1.github.io/project/2024/09/02/hello-world/"/>
-    <id>https://goldgoose1.github.io/project/2024/09/02/hello-world/</id>
+    <link href="https://goldgoose1.github.io/2024/09/02/hello-world/"/>
+    <id>https://goldgoose1.github.io/2024/09/02/hello-world/</id>
     <published>2024-09-02T01:44:36.838Z</published>
     <updated>2024-09-02T01:44:36.838Z</updated>
     
